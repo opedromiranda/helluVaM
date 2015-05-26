@@ -10,7 +10,7 @@ echo "Installing Go"
 apt-get install golang -y
 
 echo "Installing httpie"
-apt-get install httpie
+apt-get install httpie -y
 
 #locale-gen UTF-8
 #echo "Installing Zsh"
